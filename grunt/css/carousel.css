@@ -1,0 +1,19 @@
+.landing-page .header-back.one {
+    background: url(../../images/header_one.png) 50% 0 no-repeat;
+}
+
+.landing-page .header-back.two {
+    background: url(../../images/header_two.png) 50% 0 no-repeat;
+}
+
+.landing-page .carousel .item {
+    height: 350px;
+}
+
+.landing-page .carousel {
+    height: 350px;
+}
+
+.landing-page .header-back {
+    height: 350px;
+}
